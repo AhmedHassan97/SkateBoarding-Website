@@ -1,0 +1,65 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+.sectionlight{
+    background-color: #eceeef;
+    padding: 2rem;
+}
+.darksection{
+    background-color: #cccccc;
+    padding: 2rem;
+  
+}
+p{
+    font-size: 13px;
+}
+.somecustom{
+    display: block;
+    margin: auto;
+    background-color: red;
+    padding-top: 5px;
+    color: white;
+}
+.logo2{
+    margin: auto;
+    display: block; 
+    padding: 2rem;
+}
+/*
+.GetcoolStuff-title{
+    margin: auto;
+    display: block;
+}*/
+.centerimg{
+    
+    margin: auto;
+    display: block;
+}
+.btncenter{
+    margin: auto;
+    display: block;
+    background-color: red;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 60%;
+    
+}
+.social{
+    margin: auto;
+}
+.fab{
+    margin: 10px;
+}
+.fa-facebook-square{
+    color:#3b5998;
+}
+.fa-google {
+    color: #D44638;
+}
+.fa-instagram{
+    color: white;
+}
+
+
